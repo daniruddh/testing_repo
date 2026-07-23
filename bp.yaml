@@ -1,6 +1,5 @@
 #abp.yaml
 #sagifh
-#anifudfdhfd
 version: api/v1
 kind: BPPipeline
 metadata:
